@@ -1,5 +1,5 @@
 package com.formacionspring.apirest.model.entity;
-
+//esto es un comentario
 import java.io.Serializable;
 
 import javax.persistence.Column;
